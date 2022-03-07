@@ -1,5 +1,8 @@
 # nerdle-demo
 
+## Design Discussions of Nerdle Game can be accessed from here https://docs.google.com/spreadsheets/d/1pSfisRUdTh8zxvMDvlRiQWuyUG-KHTyqhQAn5QfVZm0/edit?usp=sharing as well as you may find in same git repo https://github.com/krishna-chandra/nerdle-demo/blob/main/Nerdle%20-%20Design%20Document.xlsx
+
+
 React frontend code is in frontend folder, app runs on port 3000 on development mode
 `npm run build` command used to generated production build of react app.
 
